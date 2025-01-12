@@ -2,10 +2,16 @@
 <project version="4">
   <component name="deploymentTargetSelector">
     <selectionStates>
-      <SelectionState runConfigName="app">
+      <SelectionState runConfigName="Lab01.app">
         <option name="selectionMode" value="DROPDOWN" />
       </SelectionState>
-      <SelectionState runConfigName="lab01test">
+      <SelectionState runConfigName="mainScreenTest()">
+        <option name="selectionMode" value="DROPDOWN" />
+      </SelectionState>
+      <SelectionState runConfigName="testGreetingAppearsOnSubmit()">
+        <option name="selectionMode" value="DROPDOWN" />
+      </SelectionState>
+      <SelectionState runConfigName="testGreetingDoesNotAppearForBlankInput()">
         <option name="selectionMode" value="DROPDOWN" />
       </SelectionState>
     </selectionStates>
